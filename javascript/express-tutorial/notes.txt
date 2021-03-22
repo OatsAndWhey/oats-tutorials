@@ -1,0 +1,12 @@
+Express is a fast, minimalist web framework for Node
+Runs on the server
+
+Makes building Node web apps much easier
+Used for both server rendered apps as well as APIs/microservices
+Light, fast, and free
+Full control of request and response
+By far the most popular Node framework
+Great to use with client side frameworks so it's all JS
+
+Middleware functions have access to the request and response objects
+Middleware is capable of executing any code, making changes to req/res objects, end response cycle, etc.

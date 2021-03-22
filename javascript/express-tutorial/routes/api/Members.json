@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1,
+		"name": "Rob",
+		"email": "robahirst@gmail.com",
+		"status": "active"
+	},
+	{
+		"id": 2,
+		"name": "Ash Hirst",
+		"email": "ashleyrvande@gmail.com",
+		"status": "away"
+	},
+	{
+		"id": 3,
+		"name": "Jeter Hirst",
+		"email": "noemail@gmail.com",
+		"status": "asleep"
+	}
+]

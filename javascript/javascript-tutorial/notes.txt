@@ -1,0 +1,18 @@
+High-level interpreted programming language
+Conforms to ECMAscript specs
+Multi-paradigm
+Runs both client and server side
+
+To learn:
+- variables and data types
+- arrays
+- object literals
+- methods for strings, arrays, objects, etc...
+- loops - for, while, for...of, forEach, map
+- conditionals
+- functions
+- OOP (prototypes and classes)
+- DOM selection
+- DOM manipulation
+- Events
+- Basic form validation

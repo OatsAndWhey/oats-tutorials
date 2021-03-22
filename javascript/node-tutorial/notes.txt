@@ -1,0 +1,27 @@
+What's Node?
+Node is JS runtime.
+JS on the server
+
+Stuff you should know:
+- JS fundies: OOP, Arrays, Conditionals
+- HTTP
+- JSON
+- ES6: arrow functions, promises, MVC pattern
+
+Why Node?
+Fast, efficient, highly scalable
+Event driver, non-blocking I/O model
+Full-stack language
+
+Node runs on a single-thread, so if a process is synchronous it would block the thread
+Supports concurrency via events and callbacks
+Node is good for anything that isn't CPU intensive
+Good for REST APIs, microservices, CRUD apps, realtime services (chat, live updates)
+Node and MongoDB make a very good team
+
+npm init            Generates a package.json file
+npm i express       Installs a package locally in app folder
+npm i -g nodemon    Installs a package globally on your system
+
+Node core modules (path, fs, http, etc.)
+const path = require('path')
